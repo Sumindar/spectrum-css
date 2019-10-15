@@ -1,6 +1,6 @@
 name: Rating
 status: Verified
-SpectrumSiteSlug: https://spectrum.corp.adobe.com/page/rating/
+SpectrumSiteSlug: https://spectrum.adobe.com/page/rating/
 examples:
   - id: rating
     name: Standard

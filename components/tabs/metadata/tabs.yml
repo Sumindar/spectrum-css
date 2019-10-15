@@ -1,5 +1,5 @@
 name: Tabs
-SpectrumSiteSlug: https://spectrum.corp.adobe.com/page/tabs/
+SpectrumSiteSlug: https://spectrum.adobe.com/page/tabs/
 examples:
   - id: tabs
     name: Basic tabs

@@ -1,6 +1,6 @@
 name: Rule
 status: Verified
-SpectrumSiteSlug: https://spectrum.corp.adobe.com/page/divider/
+SpectrumSiteSlug: https://spectrum.adobe.com/page/divider/
 examples:
   - id: rule-large
     name: 'Large'

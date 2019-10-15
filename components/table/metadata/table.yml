@@ -1,5 +1,5 @@
 name: Table
-SpectrumSiteSlug: https://spectrum.corp.adobe.com/page/table/
+SpectrumSiteSlug: https://spectrum.adobe.com/page/table/
 examples:
   - id: table
     name: Standard

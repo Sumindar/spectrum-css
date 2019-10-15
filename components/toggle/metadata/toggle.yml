@@ -1,5 +1,5 @@
 name: Switch
-SpectrumSiteSlug: https://spectrum.corp.adobe.com/page/switch/
+SpectrumSiteSlug: https://spectrum.adobe.com/page/switch/
 examples:
   - id: switch
     name: Standard

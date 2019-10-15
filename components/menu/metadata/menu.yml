@@ -1,5 +1,5 @@
 name: Menu
-SpectrumSiteSlug: https://spectrum.corp.adobe.com/page/side-navigation/
+SpectrumSiteSlug: https://spectrum.adobe.com/page/side-navigation/
 examples:
   - id: selectlist
     name: Standard

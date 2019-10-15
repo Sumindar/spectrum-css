@@ -1,6 +1,6 @@
 name: Radio
 status: Verified
-SpectrumSiteSlug: https://spectrum.corp.adobe.com/page/radio-button/
+SpectrumSiteSlug: https://spectrum.adobe.com/page/radio-button/
 examples:
   - id: radio
     name: Standard

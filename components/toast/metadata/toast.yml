@@ -1,5 +1,5 @@
 name: Toast
-SpectrumSiteSlug: https://spectrum.corp.adobe.com/page/toast/
+SpectrumSiteSlug: https://spectrum.adobe.com/page/toast/
 examples:
   - id: toast
     name: Default

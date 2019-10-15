@@ -1,6 +1,6 @@
 name: Circle Loader
 status: Verified
-SpectrumSiteSlug: https://spectrum.corp.adobe.com/page/circle-loader/
+SpectrumSiteSlug: https://spectrum.adobe.com/page/circle-loader/
 examples:
   - id: circleloader-small
     name: Standard

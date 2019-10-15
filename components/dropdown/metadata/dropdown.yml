@@ -1,6 +1,6 @@
 name: Dropdown
 status: Verified
-SpectrumSiteSlug: https://spectrum.corp.adobe.com/page/dropdown/
+SpectrumSiteSlug: https://spectrum.adobe.com/page/dropdown/
 examples:
   - id: dropdown
     name: Standard
